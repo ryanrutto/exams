@@ -1,0 +1,55 @@
+h1{
+   margin-left: 70px;
+}
+table{
+ border-collapse: collapse;
+ width: 30%;
+border: 1px solid black;
+}
+table,tr,th,td{
+    border: 1px solid black;
+}
+table th{
+    text-transform: uppercase;
+}
+.con a :active{
+    color: red;
+text-decoration: underline;
+}
+.con a  :visited{
+    color:purple;
+}
+.contenttt ul li{
+list-style: none;
+display: inline;
+padding: 17px 20px;
+
+}
+.contenttt{
+    text-align: center;
+  
+}
+
+.good h1{
+ margin-left: 400px;
+ margin-top: 100px;
+ height: 100px;
+}
+.good{
+    background-color: grey;
+  height: 210px;
+}
+.zoo h2{
+    font-weight: bold;
+}
+#stanzal{
+    text-decoration: underline;
+    text-align: center;
+}
+.code{
+  
+  
+     width: fit-content;
+     font-size: large; 
+    
+}
